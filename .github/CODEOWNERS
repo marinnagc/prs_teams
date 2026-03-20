@@ -1,0 +1,13 @@
+# CODEOWNERS - Define quem revisa PRs automaticamente
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default: todos os arquivos
+* @marinnagc
+* @ThiagoVictoriano
+* @Brunosl2
+* @Vacbo
+
+# Exemplos de regras específicas (descomente e ajuste conforme necessário):
+# /agents/       @org/sre-team
+# /api/          @org/backend-team
+# *.md           @org/docs-team
